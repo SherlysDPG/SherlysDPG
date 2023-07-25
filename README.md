@@ -30,6 +30,12 @@
     <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=SherlysDPG&repo=AUTH-API" />
   </a>
 
+  <a href="https://github.com/SherlysDPG/NOTE-API">
+    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=SherlysDPG&repo=NOTE-API" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/SherlysDPG/webScraping">
     <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=SherlysDPG&repo=webScraping" />
   </a>
